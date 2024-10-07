@@ -3,6 +3,6 @@ applied to single-input single-output (SISO) orthogonal frequency division modul
 
 Use termProjectOFDM.m code to simulate the system model.
 
-LMSeq and RLSeq present LMS and RLS equalization schemes.
+LMSeq.m and RLSeq.m present LMS and RLS equalization schemes.
 
 The rest of the files are simulation results represented in project report, which can be plotted using figures.m
